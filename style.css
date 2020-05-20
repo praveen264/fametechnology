@@ -92,6 +92,6 @@ color: blue;
     width: 50%;
     text-align: justify;
     margin-left: 25%;
-    max-height: 200px;
+    min-height: 200px;
     padding: 20px;
 }
